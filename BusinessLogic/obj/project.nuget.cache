@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qD/kgGo6TlOKi4nj97ERk0ylO5eX3sS9LpHC5M+wBBGHrhxlUQwYMUJAwEIDNOmPwk702QQNQHYF/3Q4MsGR9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sri\\Source\\Repos\\BookTimeOffBot\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

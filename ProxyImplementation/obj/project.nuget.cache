@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWrdllYBiISAa+wrnL1AfoaECbGqINB3Aj3zxS8MAQ9H3snvoH04sdzLMvCCYV2nsPltKluuwsL6d6pVb+r82A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sri\\Source\\Repos\\BookTimeOffBot\\ProxyImplementation\\ProxyImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

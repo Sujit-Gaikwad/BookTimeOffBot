@@ -1,0 +1,9 @@
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\bin\Debug\netstandard2.0\CongnetiveServiceLibrary.deps.json
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\bin\Debug\netstandard2.0\CongnetiveServiceLibrary.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\bin\Debug\netstandard2.0\CongnetiveServiceLibrary.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\obj\Debug\netstandard2.0\CongnetiveServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\obj\Debug\netstandard2.0\CongnetiveServiceLibrary.AssemblyInfo.cs
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\obj\Debug\netstandard2.0\CongnetiveServiceLibrary.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\obj\Debug\netstandard2.0\CongnetiveServiceLibrary.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\obj\Debug\netstandard2.0\CongnetiveServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\CongnetiveServiceLibrary\obj\Debug\netstandard2.0\CongnetiveServiceLibrary.csproj.CoreCompileInputs.cache

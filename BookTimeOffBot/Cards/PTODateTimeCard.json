@@ -1,0 +1,121 @@
+{
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.2",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "PTO Application",
+      "fontType": "Default",
+      "size": "Medium",
+      "weight": "Bolder"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Start Date",
+              "weight": "Bolder"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "Input.Date",
+              "id": "StartDate",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "End Date",
+              "weight": "Bolder"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "Input.Date",
+              "id": "EndDate",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TextBlock",
+      "text": "Reason",
+      "weight": "Bolder"
+    },
+    {
+      "type": "Input.Text",
+      "placeholder": "PTO Reason",
+      "id": "Reason",
+       "value": ""
+    },
+    {
+      "type": "TextBlock",
+      "text": "Please fill all data in the card",
+      "weight": "Bolder",
+      "isVisible": false
+    },
+    {
+      "type": "TextBlock",
+      "text": "Start date and End Date Should not empty",
+      "weight": "Bolder",
+      "isVisible": false
+    },
+    {
+      "type": "TextBlock",
+      "text": "End Date should be greater than StartDate",
+      "weight": "Bolder",
+      "isVisible": false
+    },
+    {
+      "type": "TextBlock",
+      "text": "Start date Should be greater than or equal to today date",
+      "weight": "Bolder",
+      "isVisible": false
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Apply",
+      "id": "AppyPTO",
+      "data": {
+        "Action": "validate&ApplyPTO"
+      }
+    },
+    {
+      "type": "Action.Submit",
+      "title": "Cancel",
+      "id": "Cancel",
+      "data": {
+        "Action": "Cancel"
+      }
+    }
+  ]
+}

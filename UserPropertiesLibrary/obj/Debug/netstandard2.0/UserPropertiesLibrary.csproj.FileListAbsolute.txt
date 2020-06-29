@@ -1,0 +1,9 @@
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\bin\Debug\netstandard2.0\UserPropertiesLibrary.deps.json
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\bin\Debug\netstandard2.0\UserPropertiesLibrary.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\bin\Debug\netstandard2.0\UserPropertiesLibrary.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\obj\Debug\netstandard2.0\UserPropertiesLibrary.AssemblyInfoInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\obj\Debug\netstandard2.0\UserPropertiesLibrary.AssemblyInfo.cs
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\obj\Debug\netstandard2.0\UserPropertiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\obj\Debug\netstandard2.0\UserPropertiesLibrary.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\obj\Debug\netstandard2.0\UserPropertiesLibrary.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\UserPropertiesLibrary\obj\Debug\netstandard2.0\UserPropertiesLibrary.csprojAssemblyReference.cache

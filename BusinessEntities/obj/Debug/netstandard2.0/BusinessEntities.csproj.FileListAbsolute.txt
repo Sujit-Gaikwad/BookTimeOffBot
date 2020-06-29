@@ -1,0 +1,9 @@
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.deps.json
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\bin\Debug\netstandard2.0\BusinessEntities.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.AssemblyInfo.cs
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessEntities\obj\Debug\netstandard2.0\BusinessEntities.csprojAssemblyReference.cache

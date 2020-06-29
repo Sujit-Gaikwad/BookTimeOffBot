@@ -1,0 +1,12 @@
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\bin\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\bin\Debug\netstandard2.0\BusinessEntities.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\bin\Debug\netstandard2.0\ProxyImplementation.deps.json
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\bin\Debug\netstandard2.0\ProxyImplementation.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\bin\Debug\netstandard2.0\ProxyImplementation.pdb
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\obj\Debug\netstandard2.0\ProxyImplementation.csprojAssemblyReference.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\obj\Debug\netstandard2.0\ProxyImplementation.AssemblyInfoInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\obj\Debug\netstandard2.0\ProxyImplementation.AssemblyInfo.cs
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\obj\Debug\netstandard2.0\ProxyImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\obj\Debug\netstandard2.0\ProxyImplementation.dll
+C:\Users\Sri\Source\Repos\BookTimeOffBot\ProxyImplementation\obj\Debug\netstandard2.0\ProxyImplementation.pdb

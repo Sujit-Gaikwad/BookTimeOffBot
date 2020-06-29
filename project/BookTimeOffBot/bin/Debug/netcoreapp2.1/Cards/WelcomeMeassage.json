@@ -1,0 +1,39 @@
+{
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.2",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Welcome, I'm PTO bot"
+    },
+    {
+      "type": "TextBlock",
+      "text": "I can assist you with booking PTO and check your remaining balance"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Apply for PTO",
+      "data": {
+        "msteams": {
+          "type": "imBack",
+          "value": "Apply for PTO"
+        }
+      },
+      "id": "ApplyPTO"
+    },
+    {
+      "type": "Action.Submit",
+      "title": "Check PTO balance",
+      "data": {
+        "msteams": {
+          "type": "imBack",
+          "value": "I want to check my leave balance"
+        }
+      },
+      "id": "PTOBalance"
+    }
+  ]
+}

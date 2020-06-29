@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TZb2/LJSURLiNg6U/r7DjGND7CWyJY7hdG/aG8wajv0qnh6gz3cfxjpjdQCmOUrOQiUP03NAsVEx2OvZ5g9Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sri\\Source\\Repos\\BookTimeOffBot\\BusinessEntities\\BusinessEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
